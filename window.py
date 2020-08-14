@@ -4,7 +4,7 @@ from tkinter import *
 def print_text():
     print('Ты чмо')
 
-
+print('GIT')
 root = Tk()
 root.resizable(width = False, height = False)
 root.geometry( '400x300')
