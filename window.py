@@ -2,7 +2,7 @@ from tkinter import *
 
 
 def print_text():
-    print('Ты чмо')
+    print('Hell')
 
 print('GIT')
 root = Tk()
